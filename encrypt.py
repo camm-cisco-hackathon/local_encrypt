@@ -11,7 +11,7 @@ import base64
 INPUT_DIR = "./record"
 MOSAIC_DIR = "./record_mosaic"
 ENCRYPT_DIR = "./record_encrypt"
-ENCRYPTION_KEY = "rootroot"
+ENCRYPTION_KEY = "asdf"
 
 # Create output directories if they don't exist
 os.makedirs(MOSAIC_DIR, exist_ok=True)
