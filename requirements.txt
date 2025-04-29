@@ -1,0 +1,9 @@
+numpy
+fastapi
+uvicorn
+opencv-python-headless
+cryptography
+ultralytics
+python-multipart
+uvicorn[standard]
+ffmpeg-python
